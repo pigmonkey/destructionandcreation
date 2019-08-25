@@ -1,0 +1,11 @@
+---
+title: Destruction and Creation
+author: John R. Boyd
+language: en-US
+date: 1976-09-03
+bibliography: bibliography.bib
+link-citations: true
+reference-section-title: Bibliography
+nocite: |
+  @*
+...
